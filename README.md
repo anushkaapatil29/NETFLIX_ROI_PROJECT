@@ -69,3 +69,5 @@ streamlit run app.py
 ```
 
 To embed the static images into your portfolio README, open `README.md` in an editor and add markdown image links pointing to `plots/*.png` (they will display when pushed to GitHub).
+
+Live Demo Link:https://netflixroiproject-appskkq9taydy6uhot6g5mp.streamlit.app/
