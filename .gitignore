@@ -1,0 +1,13 @@
+﻿.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+*.swp
+.DS_Store
+plots/interactive_*.html
